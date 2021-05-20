@@ -2,7 +2,7 @@
 To Get The Real Time Stock Trade Price By Line Notify with Python Code
 
 
-<a href="https://molly1024.medium.com/%E7%94%A8python%E5%AF%AB%E4%B8%80%E5%80%8Bline-notify-%E6%8E%A5%E6%94%B6%E5%8D%B3%E6%99%82%E8%82%A1%E5%83%B9%E9%80%9A%E7%9F%A5-use-python-to-get-the-real-time-stock-trade-price-by-line-notify-4d26deec85c4" target="_blank">Medium 圖文並茂版本 </a>
+<a href="https://molly1024.medium.com/%E7%94%A8python%E5%AF%AB%E4%B8%80%E5%80%8Bline-notify-%E6%8E%A5%E6%94%B6%E5%8D%B3%E6%99%82%E8%82%A1%E5%83%B9%E9%80%9A%E7%9F%A5-use-python-to-get-the-real-time-stock-trade-price-by-line-notify-4d26deec85c4" target="_blank" >edium 圖文並茂版本</a>
 
 
 用python寫一個line notify，接收即時股價通知。Use Python To Get The Real Time Stock Trade Price By Line Notify.
