@@ -77,7 +77,7 @@ response = requests.request("POST", url, headers=headers, data=payload)
 print(response.text)
 ```
 get token 登入 > 個人頁面
-https://notify-bot.line.me/zh_TW/ 
+https://notify-bot.line.me/zh_TW/
 
 點 發行權杖 點自己的帳號 就會有一串亂碼 複製起來
 貼到上面的code
